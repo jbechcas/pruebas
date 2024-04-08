@@ -1,4 +1,4 @@
-<h1>Memoria del proyecto de Lenguajes de Marcas - 1º DAM /h1>
+<h1>Memoria del proyecto de Lenguajes de Marcas - 1º DAM </h1>
 <h2>Solo Leveling - A tribute site</h2>
 <h2>Indice</h2>
 <ul>
